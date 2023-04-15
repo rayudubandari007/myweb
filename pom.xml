@@ -33,12 +33,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.233.230.166:8081/repository/maven-snapshots/</url>
+		    <url>http://192.168.179.176:8081/repository/cmx-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.233.230.166:8081/repository/maven-releases/</url>
+		    <url>http://192.168.179.176:8081/repository/cmx-releases/</url>
 		</repository>
   	</distributionManagement>
 	
